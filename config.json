@@ -1,5 +1,5 @@
 {
-"app_id" : "com.fsd38.moodlemobile",
+"app_id" : "com.fsd38.hubmoodlemobile",
 "versioncode" : "384",
 "versionname" : "1.10",
 "cache_expiration_time" : 300000,
@@ -8,7 +8,7 @@
 "plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
-"presets" : {"url": "http://www.fsd38.ab.ca/LMS", "username": ""},
+"presets" : {"url": "http://thehub.fsd38.ab.ca", "username": ""},
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
