@@ -12,7 +12,7 @@
     </description>
 
     <author href="http://www.fsd38.ab.ca" email="stevensd@fsd38.ab.ca">
-        Foothills School Div & Moodle Pty Ltd
+        Foothills School Div and Moodle Pty Ltd
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
@@ -528,5 +528,4 @@
             <key>NSAllowsArbitraryLoads</key><true/>
         </dict>
     </gap:config-file>
-
 </widget>
