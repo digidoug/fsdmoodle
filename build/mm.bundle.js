@@ -4807,7 +4807,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/site.html',
         controller: 'mmLoginSiteCtrl',
 	onEnter: ["$state", function($state) {
-	    $state.go('mm_login.credentials', {siteurl: 'https://thehub.fsd38.ab.ca'});
+	    $state.go('mm_login.credentials', {siteurl: 'http://thehub.fsd38.ab.ca'});
 	}]
     })
     .state('mm_login.credentials', {
