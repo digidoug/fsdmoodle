@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://thehub.fsd38.ab.ca",
+    "siteurl": "http://thehub.fsd38.ab.ca/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
